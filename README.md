@@ -50,9 +50,9 @@ The dataset contains detailed information about customers, their service usage, 
 
 ## Project Workflow
 
-1. **Data Preprocessing**: Clean and preprocess the dataset, handling missing values, and encoding categorical variables.
+1. **Data Preprocessing**: Clean and preprocess the dataset using SQL handling missing values, and encoding categorical variables.
 2. **Exploratory Data Analysis (EDA)**: Perform EDA to uncover patterns and correlations between different features and churn.
-3. **Model Development**: Build and evaluate different machine learning models (e.g., logistic regression, decision trees, random forest, etc.) to predict customer churn.
+3. **Model Development**: Build and evaluate different machine learning models  random forest to predict customer churn.
 4. **Visualization**: Use Power BI to create visualizations that make it easy to understand the data and model results.
 5. **Deployment**: Deploy the Power BI dashboard and share insights with stakeholders.
 
